@@ -1,8 +1,22 @@
-# 👋 Hi, I'm Neha 
+<div align="center">
+
+# 👋 Hi, I'm Neha
+
+<img src="https://komarev.com/ghpvc/?username=nehagithub07&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;400%2B+DSA+Problems+Solved" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nehagithub07&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -15,6 +29,23 @@
 🏆 Patent Holder | Hackathon Finalist | Project Associate at IIT Roorkee
 🌱 Building scalable web applications using React, Next.js, Node.js & AI technologies
 ✨ Love building user-friendly and impactful web applications
+⚡ Strong interest in Frontend Engineering, AI-powered systems & scalable products
+
+---
+
+## ⚡ Current Focus
+
+```yaml
+Learning:
+  - System Design
+  - Scalable Frontend Architectures
+  - AI + LLM Applications
+
+Working On:
+  - Next.js Applications
+  - AI-powered Chatbots
+  - Real-time Web Apps
+```
 
 ---
 
@@ -28,7 +59,18 @@
 
 ---
 
-## 💼 Experience\n\n### 🏢 Project Associate – Software Development | IIT Roorkee\n📌 Working on Virtual Labs in Electrical Engineering Department  \n⚡ Developing scalable simulation modules using Next.js & React  \n⚡ Built AI-powered chatbot using LLM-based RAG & vector databases  \n⚡ Improved application performance and reduced simulation load time by 35%\n\n---\n\n## 🌟 Featured Projects
+## 💼 Experience
+
+### 🏢 Project Associate – Software Development | IIT Roorkee
+
+📌 Working on Virtual Labs in Electrical Engineering Department
+⚡ Developing scalable simulation modules using Next.js & React
+⚡ Built AI-powered chatbot using LLM-based RAG & vector databases
+⚡ Improved application performance and reduced simulation load time by 35%
+
+---
+
+## 🌟 Featured Projects
 
 ### 🏋️ MERN Fitness Tracker
 
@@ -38,7 +80,20 @@
 
 ---
 
-### 🚀 NineKiwi – Inspection & Project Management Platform\n📌 Full-stack inspection management platform deployed on Vercel  \n⚡ Features PDF export, media uploads, voice-to-text & role-based access  \n⚡ Reduced documentation time by 50% with workflow automation  \n🛠️ Tech Stack: Next.js, MongoDB, REST APIs\n\n---\n\n### 🧠 Smart Path Visualizer\n📌 Interactive visualization of pathfinding algorithms  \n⚡ Built to help users understand graph traversal visually  \n🛠️ Tech Stack: React.js, JavaScript
+### 🚀 NineKiwi – Inspection & Project Management Platform
+
+📌 Full-stack inspection management platform deployed on Vercel
+⚡ Features PDF export, media uploads, voice-to-text & role-based access
+⚡ Reduced documentation time by 50% with workflow automation
+🛠️ Tech Stack: Next.js, MongoDB, REST APIs
+
+---
+
+### 🧠 Smart Path Visualizer
+
+📌 Interactive visualization of pathfinding algorithms
+⚡ Built to help users understand graph traversal visually
+🛠️ Tech Stack: React.js, JavaScript
 
 ---
 
@@ -47,6 +102,16 @@
 📌 Security-focused project for IP detection and monitoring
 ⚡ Patent-backed innovation using Python
 🛠️ Tech Stack: Python
+
+---
+
+## 🌐 Open Source & Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/nehagithub07">GitHub</a> • <a href="https://leetcode.com/nehaleetcode07">LeetCode</a> • <a href="https://linkedin.com">LinkedIn</a>
+
+</div>
 
 ---
 
@@ -62,6 +127,16 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nehagithub07&theme=tokyo-night" />
+
+</div>
+
+---
+
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -72,7 +147,13 @@
 
 ---
 
-## 🏆 Achievements\n\n✅ Indian Patent Holder – Network Security Solution  \n✅ 400+ DSA Problems Solved on LeetCode & GeeksforGeeks  \n✅ Hackathon Finalist – National Level Competitions  \n✅ Project Associate at IIT Roorkee  \n✅ Built AI-powered applications using LLM & RAG
+## 🏆 Achievements
+
+✅ Indian Patent Holder – Network Security Solution
+✅ 400+ DSA Problems Solved on LeetCode & GeeksforGeeks
+✅ Hackathon Finalist – National Level Competitions
+✅ Project Associate at IIT Roorkee
+✅ Built AI-powered applications using LLM & RAG
 
 ---
 
@@ -85,6 +166,8 @@
 ---
 
 <div align="center">
+
+⭐ If you like my work, consider giving a star to my repositories!
 
 ✨ Thanks for visiting my profile ✨
 
