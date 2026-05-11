@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer;MERN+Stack+Developer;Frontend+Developer;Problem+Solver;400%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Developer;Full+Stack+Developer;AI+Enthusiast;400%2B+DSA+Problems+Solved" alt="Typing SVG" />
 
 </div>
 
@@ -11,9 +11,9 @@
 ## 🚀 About Me
 
 🎓 MCA Graduate from Graphic Era Hill University
-💻 Passionate about Full Stack Development & Frontend Engineering
-🏆 Patent Holder | Hackathon Finalist | Software Engineer Intern
-🌱 Currently improving my skills in scalable applications & system design
+💻 Software Engineer passionate about scalable Full Stack Development, Frontend Engineering & AI-powered applications
+🏆 Patent Holder | Hackathon Finalist | Project Associate at IIT Roorkee
+🌱 Building scalable web applications using React, Next.js, Node.js & AI technologies
 ✨ Love building user-friendly and impactful web applications
 
 ---
@@ -22,13 +22,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,cpp,aws,git,github,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,python,cpp,aws,git,github,html,css,tailwind" />
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## 💼 Experience\n\n### 🏢 Project Associate – Software Development | IIT Roorkee\n📌 Working on Virtual Labs in Electrical Engineering Department  \n⚡ Developing scalable simulation modules using Next.js & React  \n⚡ Built AI-powered chatbot using LLM-based RAG & vector databases  \n⚡ Improved application performance and reduced simulation load time by 35%\n\n---\n\n## 🌟 Featured Projects
 
 ### 🏋️ MERN Fitness Tracker
 
@@ -38,11 +38,7 @@
 
 ---
 
-### 🧠 Smart Path Visualizer
-
-📌 Interactive visualization of pathfinding algorithms
-⚡ Built to help users understand graph traversal visually
-🛠️ Tech Stack: React.js, JavaScript
+### 🚀 NineKiwi – Inspection & Project Management Platform\n📌 Full-stack inspection management platform deployed on Vercel  \n⚡ Features PDF export, media uploads, voice-to-text & role-based access  \n⚡ Reduced documentation time by 50% with workflow automation  \n🛠️ Tech Stack: Next.js, MongoDB, REST APIs\n\n---\n\n### 🧠 Smart Path Visualizer\n📌 Interactive visualization of pathfinding algorithms  \n⚡ Built to help users understand graph traversal visually  \n🛠️ Tech Stack: React.js, JavaScript
 
 ---
 
@@ -76,12 +72,7 @@
 
 ---
 
-## 🏆 Achievements
-
-✅ Patent Holder
-✅ 400+ DSA Problems Solved
-✅ Hackathon Finalist
-✅ Software Engineer Intern at Bajaj Nutraceuticals
+## 🏆 Achievements\n\n✅ Indian Patent Holder – Network Security Solution  \n✅ 400+ DSA Problems Solved on LeetCode & GeeksforGeeks  \n✅ Hackathon Finalist – National Level Competitions  \n✅ Project Associate at IIT Roorkee  \n✅ Built AI-powered applications using LLM & RAG
 
 ---
 
@@ -89,7 +80,7 @@
 
 📧 Email: [nehasaniya465@gmail.com](mailto:nehasaniya465@gmail.com)
 💼 LinkedIn: [https://www.linkedin.com/in/neha0701/](https://www.linkedin.com/in/neha0701/)
-🌐 Portfolio: [https://my-portfolio-tawny-xi-32.vercel.app/](https://my-portfolio-tawny-xi-32.vercel.app/)e
+🌐 Portfolio: [https://my-portfolio-tawny-xi-32.vercel.app/](https://my-portfolio-tawny-xi-32.vercel.app/)
 
 ---
 
@@ -97,4 +88,4 @@
 
 ✨ Thanks for visiting my profile ✨
 
-</div> 
+</div>
