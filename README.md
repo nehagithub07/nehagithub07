@@ -1,175 +1,254 @@
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0533,100:0d1117&height=200&section=header&text=NEHA.exe&fontSize=72&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=[%20AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Patent%20Holder%20]&descSize=16&descAlignY=65&descColor=7B61FF" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Neha%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║          🧠  NEURAL INTERFACE ESTABLISHED  🧠                   ║
+║      Connecting to Neha's developer mind...  ██████████  100%  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+IIT+Roorkee;Full+Stack+Developer+(React+%2F+Next.js+%2F+Node.js);AI+%26+LLM+Powered+App+Builder;Patent+Holder+%F0%9F%8F%86;400%2B+DSA+Problems+Solved)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=⚡+Software+Engineer+%40+IIT+Roorkee;🤖+Building+AI-Powered+Apps+with+LLM+%2B+RAG;🧠+LangChain+%7C+Vector+DBs+%7C+GenAI+Developer;🏆+Patent+Holder+%7C+Full+Stack+%7C+400%2B+DSA+Solved;🚀+Next.js+%7C+React+%7C+Node.js+%7C+TypeScript)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=nehagithub07&label=Profile+Views&color=6C63FF&style=for-the-badge)](https://github.com/nehagithub07)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neha0701)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-tawny-xi-32.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nehaleetcode07)
+[![](https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0a0a0a)](https://github.com/nehagithub07)
+[![](https://img.shields.io/badge/MODE-AI__BUILDING-7B61FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0a0a)](https://github.com/nehagithub07)
+[![](https://img.shields.io/badge/PATENT-HOLDER-FF6B6B?style=for-the-badge&logo=google-patents&logoColor=white&labelColor=0a0a0a)](https://github.com/nehagithub07)
+[![](https://komarev.com/ghpvc/?username=nehagithub07&style=for-the-badge&color=7B61FF&label=PROFILE+VIEWS&labelColor=0a0a0a)](https://github.com/nehagithub07)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
 
-```typescript
-const neha = {
-  role      : "Project Associate – Software Dev @ IIT Roorkee 🏛️",
-  education : "MCA @ Graphic Era Hill University | CGPA: 8.11/10",
-  patent    : "Indian Patent Holder 🏆 (202311040162) – Network Security",
-  techStack : {
-    frontend  : ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend   : ["Node.js", "Express.js", "REST APIs"],
-    databases : ["PostgreSQL", "MongoDB", "MySQL", "Vector DBs"],
-    ai        : ["LangChain", "LLM-based RAG", "Generative AI"],
-    cloud     : ["AWS", "CI/CD", "Vercel", "Netlify"],
+## `> MODEL_CARD.json`
+
+</div>
+
+```json
+{
+  "model_name"     : "Neha v2.0",
+  "model_type"     : "Software Engineer + AI Developer",
+  "organization"   : "IIT Roorkee — Virtual Labs, EE Department",
+  "education"      : "MCA @ Graphic Era Hill University | CGPA: 8.11 / 10.0",
+  "patent"         : "IN 202311040162 — Network Security Innovation 🏆",
+
+  "primary_capabilities": [
+    "Full Stack Web Development  →  React · Next.js · Node.js",
+    "AI Application Development →  LLM · RAG · LangChain",
+    "REST API Design & Microservices Architecture",
+    "Vector Database Integration & Prompt Engineering",
+    "Cloud Deployment           →  AWS · Vercel · Netlify"
+  ],
+
+  "performance_benchmarks": {
+    "ui_optimization"     : "−35% simulation load time @ IIT Roorkee",
+    "workflow_automation" : "−50% documentation time (NineKiwi)",
+    "security_hardening"  : "−60% unauthorized access (Patent Project)",
+    "dsa_problems_solved" : "400+ on LeetCode & GeeksforGeeks"
   },
-  currentlyBuilding : "AI-powered chatbot with RAG @ IIT Roorkee Virtual Labs",
-  funFact   : "I reduced simulation load time by 35% ⚡",
-};
+
+  "training_status"  : "🟢 ACTIVE — RAG pipelines · System Design · Scalable AI",
+  "contact_endpoint" : "nehasaniya465@gmail.com"
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**AI & Cloud**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🔥 Project | 📝 Description | 🛠️ Tech Stack |
-|---|---|---|
-| **[NineKiwi – Inspection Platform](https://github.com/nehagithub07)** | Full-stack inspection management system; cut documentation time by **50%** | Next.js, MongoDB, REST APIs |
-| **[MERN Fitness Tracker](https://github.com/nehagithub07)** | Real-time workout logging with auth & analytics dashboard; **30% more engagement** | React, Node.js, MongoDB, JWT |
-| **[IP Intrusion Detection System 🏆](https://github.com/nehagithub07/WHY-YOU-ARE-ENTERING-IN-MY-NETWORK-AN-APPROACH-TO-DETECT-THE-NEW-IP-ADDRESS)** | Patent-backed real-time network security monitor; cut incidents by **60%** | Python |
-| **[Face Recognition Attendance](https://github.com/nehagithub07/Simplifying-Attendance-using-Face-Recognition)** | Automated attendance system using facial recognition | Python, OpenCV |
-| **[Smart Path Visualizer](https://github.com/nehagithub07)** | Interactive visualizer for graph/pathfinding algorithms | React.js, JavaScript |
-
-</div>
-
----
-
-## 💼 Work Experience
-
-<div align="center">
+## `> NEURAL_ARCHITECTURE`
 
 ```
-🏛️  IIT ROORKEE  |  Project Associate – Software Development  |  Aug 2025 – Present
-     ├── ⚡  Built scalable web simulations using Next.js + React for Virtual Labs
-     ├── 🤖  Deployed AI chatbot with LLM-based RAG + Vector DB integration
-     ├── 🗄️  Designed database-driven features for experiment data & user tracking
-     └── 🚀  Reduced simulation load time by 35% through performance optimization
+                    ┌──────────────────────────────────┐
+                    │      🧠  NEHA'S AI STACK          │
+                    └────────────────┬─────────────────┘
+                                     │
+         ┌───────────────────────────┼───────────────────────────┐
+         │                           │                           │
+  ┌──────▼──────┐            ┌───────▼───────┐          ┌───────▼────────┐
+  │  INPUT LAYER│            │  HIDDEN LAYER │          │  OUTPUT LAYER  │
+  │  (Frontend) │            │  (Backend)    │          │  (AI / Cloud)  │
+  │─────────────│            │───────────────│          │────────────────│
+  │ ⚛️  React    │            │ 🟢 Node.js    │          │ 🔗 LangChain   │
+  │ ▲  Next.js  │◄──────────►│ 🚂 Express    │◄────────►│ 🤖 LLM + RAG  │
+  │ 🎨 Tailwind │            │ 🛢️  PostgreSQL │          │ 📊 Vector DBs  │
+  │ 📘 TypeScript│            │ 🍃 MongoDB    │          │ ☁️  AWS · CI/CD │
+  └─────────────┘            └───────────────┘          └────────────────┘
+         │                           │                           │
+         └───────────────────────────▼───────────────────────────┘
+                                     │
+                    ┌────────────────▼─────────────────┐
+                    │    🚀  DEPLOYED  (Vercel · Netlify)│
+                    └──────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🏆 Achievements
-
 <div align="center">
 
-| 🥇 | Achievement |
-|---|---|
-| 🏛️ | **Project Associate @ IIT Roorkee** – Working on AI-powered Virtual Labs |
-| 📜 | **Indian Patent Holder** – Network Security Innovation (202311040162) |
-| 🏅 | **National Hackathon Finalist** – 2022 & 2023, built apps for 200+ users |
-| 💻 | **400+ DSA Problems** Solved on LeetCode & GeeksforGeeks |
-| 🤖 | **Generative AI Certified** – Coursera (2025) |
+## `> TECH_STACK --verbose`
+
+**⚡ Languages**
+
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://cppreference.com)
+[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
+
+**🖥️ Frontend**
+
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/)
+
+**⚙️ Backend & Databases**
+
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+
+**🤖 AI & Cloud**
+
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+
+| 🔗 LangChain | 🧠 LLM / RAG | 📐 Vector DBs | 💬 Prompt Engineering | 🤖 Generative AI |
+|:---:|:---:|:---:|:---:|:---:|
+| `✅ ACTIVE` | `✅ ACTIVE` | `✅ ACTIVE` | `✅ ACTIVE` | `✅ CERTIFIED` |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+
+## `> DEPLOYED_PROJECTS --highlight`
+
+</div>
+
+### 🤖 AI-Powered Chatbot @ IIT Roorkee Virtual Labs
+> **Status:** `🟢 LIVE` &nbsp;|&nbsp; **Stack:** `Next.js · LangChain · LLM · Vector DB · RAG`
+
+```
+  USER ──► [Virtual Lab UI] ──► [RAG Pipeline] ──► [LLM Inference] ──► RESPONSE
+                                       │
+                              [Vector DB Retrieval]
+                         (Experiment Knowledge Base)
+```
+Built for the Electrical Engineering Dept at IIT Roorkee — AI assistant with real-time RAG-based retrieval over lab experiment content. Reduced simulation load time by **35%**.
+
+---
+
+### 🏢 NineKiwi — Inspection & Project Management Platform
+> **Status:** `🟢 LIVE on Vercel` &nbsp;|&nbsp; **Stack:** `Next.js · MongoDB · REST APIs`
+
+- 📄 PDF export &nbsp;·&nbsp; 🎤 Voice-to-text &nbsp;·&nbsp; 📷 Media uploads &nbsp;·&nbsp; 🔐 Role-based access
+- ⚡ Replaced manual workflows → **50% less documentation time**
+- 🏗️ Scalable MongoDB schemas for structured report storage & retrieval
+
+---
+
+### 🏋️ MERN Fitness Tracker
+> **Status:** `🟢 LIVE on Netlify` &nbsp;|&nbsp; **Stack:** `React · Node.js · MongoDB · JWT · Chart.js`
+
+- 📊 **+30% user engagement** via analytics dashboard
+- ⚡ **−40% data retrieval time** through MongoDB query optimization
+- 🔐 Secure JWT auth with real-time workout logging
+
+---
+
+### 🔐 IP Intrusion Detection System *(Patent Project)*
+> **Status:** `📜 PATENTED — IN 202311040162` &nbsp;|&nbsp; [View Repo ↗](https://github.com/nehagithub07/WHY-YOU-ARE-ENTERING-IN-MY-NETWORK-AN-APPROACH-TO-DETECT-THE-NEW-IP-ADDRESS)
+
+- 🛡️ **−60% unauthorized access** incidents via real-time anomaly detection
+- 📧 Automated email-based alert system for new IP threats
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nehagithub07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&ring_color=6C63FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehagithub07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" height="165"/>
+## `> TRAINING_METRICS`
+
+| 📊 Benchmark | 🔢 Score | 🟢 Status |
+|:---|:---:|:---:|
+| 🏆 Indian Patent — Network Security Innovation | `IN 202311040162` | `GRANTED` |
+| 💻 DSA Problems Solved (LeetCode + GFG) | `400+` | `RUNNING` |
+| 🏅 National Hackathon Finals | `2022 & 2023` | `ACHIEVED` |
+| ⚡ Simulation Load Optimization @ IIT Roorkee | `−35%` | `DEPLOYED` |
+| 🤖 Generative AI Certification | `Coursera 2025` | `CERTIFIED` |
+| 🎓 MCA Degree CGPA | `8.11 / 10.0` | `GRADUATED` |
+
+</div>
+
+---
+
+<div align="center">
+
+## `> GITHUB_ANALYTICS`
+
+<img src="https://github-readme-stats.vercel.app/api?username=nehagithub07&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=7B61FF&text_color=ffffff&border_radius=12&ring_color=00ff88" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehagithub07&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&border_radius=12" height="170"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=nehagithub07&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=7B61FF&currStreakLabel=00ff88&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=0d1117" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nehagithub07&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> CONTRIBUTION_GRAPH`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nehagithub07&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff88&line=7B61FF&point=00ff88&area=true&area_color=7B61FF" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> CONNECT --protocol=all`
+
+[![Email](https://img.shields.io/badge/Gmail-nehasaniya465-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:nehasaniya465@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-neha0701-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/neha0701)
+[![Portfolio](https://img.shields.io/badge/Portfolio-LIVE-00FF88?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a0a)](https://my-portfolio-tawny-xi-32.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a)](https://leetcode.com/nehaleetcode07)
+[![GitHub](https://img.shields.io/badge/GitHub-nehagithub07-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a)](https://github.com/nehagithub07)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=nehagithub07&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="165"/>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    "The best way to predict the future is to build it — with AI"║
+║                                                                  ║
+║              ⭐ Star my repos if you find them useful!          ║
+║                   ✨ Thanks for visiting! ✨                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nehagithub07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true" width="100%"/>
-
-</div>
-
----
-
-## 📜 Certifications
-
-- 🎓 **Introduction to Generative AI** – Coursera (2025)
-- 🐙 **Git Command Line for Beginners** – Udemy (Oct 2023)
-- 🧩 **Data Structures & Algorithms in C++** – Udemy (Jun 2023)
-- 🐍 **Python Developer** – Udemy (Jan 2023)
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-nehasaniya465%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nehasaniya465@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-neha0701-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neha0701)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-tawny-xi-32.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-nehagithub07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nehagithub07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-nehaleetcode07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nehaleetcode07)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0533,100:0a0a0a&height=100&section=footer&text=NEHA.exe+—+Process+Complete&fontSize=16&fontColor=00ff88&animation=fadeIn" width="100%"/>
 
 </div>
